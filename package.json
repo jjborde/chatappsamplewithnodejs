@@ -18,6 +18,7 @@
     "url": "git://github.com/Automattic/socket.io"
   },
   "scripts": {
+    "start":"node examples/chat/index.js"
     "test": "./node_modules/.bin/gulp test"
   },
   "dependencies": {
